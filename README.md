@@ -8,3 +8,10 @@
 - ```cd string```
 - ```pip install -r Installer```
 - ```python Espro.py```
+
+
+
+
+
+
+# welcome 🤗 to my repo sunny boss 😁😁
